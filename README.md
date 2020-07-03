@@ -9,7 +9,7 @@
 
 New Neumorphic Wallet concept designed by Redmadrobot and implemented with SwiftUI.
 
-<img src="https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview.gif" />
+<img src="https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview.gif" width="600" />
 
 <br />
 
