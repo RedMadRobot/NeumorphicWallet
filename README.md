@@ -9,10 +9,20 @@
 
 New Neumorphic Wallet concept designed by Redmadrobot and implemented with SwiftUI.
 
-|[![Watch the video](https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-1.png)](https://youtu.be/0rzUMX92Z84)|[![Watch the video](https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-2.png)](https://youtu.be/0rzUMX92Z84)|
+<table>
+<tr>
+<td>
 
-<img src="https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview.gif" width="400" />
+[![Watch the video](https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-1.png)](https://youtu.be/0rzUMX92Z84)
 
+</td>
+<td>
+
+[![Watch the video](https://github.com/RedMadRobot/NeumorphicWallet/blob/master/preview-2.png)](https://youtu.be/0rzUMX92Z84)
+
+</td>
+</tr>
+</table
 <br />
 
 Special thanks to [Inna Kondratyeva](https://www.facebook.com/koninner) (concept creator), [Katy Mykhailova](https://www.facebook.com/katymykhailova) and [Zhenya Bondarev](https://www.facebook.com/bondarev.eu)
