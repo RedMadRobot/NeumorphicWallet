@@ -16,11 +16,14 @@ struct CardInfoView: View {
     var value: String
     
     var body: some View {
-        return HStack {
+        HStack {
             VStack(alignment:.leading, spacing: 0) {
                 VStack(alignment:.leading, spacing: 10) {
-                    Image("photo")
-                        .frame(height: 112)
+                    Image(systemName: "person.fill")
+                        .foregroundColor(card.colors.serviceBig)
+                        .font(.system(size: 76.0))
+                        .frame(width: 112, height: 112)
+                        .background(Color.white)
                         .clipShape(Circle())
                         .padding(.top, 44)
                     
